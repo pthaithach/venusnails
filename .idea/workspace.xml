@@ -49,7 +49,7 @@
     <session id="-1603914915">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -68,14 +68,40 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1304668047">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="306" column="47" selection-start-line="306" selection-start-column="47" selection-end-line="306" selection-end-column="47" />
+            <state relative-caret-position="-88">
+              <caret line="316" column="22" lean-forward="true" selection-start-line="316" selection-start-column="22" selection-end-line="316" selection-end-column="22" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/template-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="1209" column="57" selection-start-line="1209" selection-start-column="42" selection-end-line="1209" selection-end-column="57" />
+            <state relative-caret-position="254">
+              <caret line="901" selection-start-line="901" selection-end-line="901" />
             </state>
           </provider>
         </entry>
@@ -93,13 +119,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>card</find>
-      <find>&lt;a href=&quot;https://www.facebook.com/venusnails80525/&quot;&gt;</find>
-      <find>logo</find>
-      <find>h6&gt;$</find>
-      <find>Donec</find>
-      <find>768</find>
-      <find>contact</find>
       <find>1024</find>
       <find>Our</find>
       <find>nav</find>
@@ -123,6 +142,13 @@
       <find>Open</find>
       <find>body</find>
       <find>section-heading</find>
+      <find>Appoint</find>
+      <find>#menu</find>
+      <find>services</find>
+      <find>#services</find>
+      <find>Appointment</find>
+      <find>menu</find>
+      <find>Spe</find>
     </findStrings>
     <replaceStrings>
       <replace>Colorado</replace>
@@ -140,13 +166,14 @@
       <replace>venus-nails-service-0</replace>
       <replace>images/venus-nails-service-0</replace>
       <replace>services</replace>
+      <replace>#specialties</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/template-style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -157,8 +184,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="903" />
+    <option name="y" value="40" />
     <option name="width" value="1007" />
     <option name="height" value="1080" />
   </component>
@@ -170,7 +197,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../68 - Venus Nails - LLDW08 - 20220616" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -200,12 +227,14 @@
       <workItem from="1655177469443" duration="51000" />
       <workItem from="1655177809854" duration="2547000" />
       <workItem from="1655354498070" duration="645000" />
-      <workItem from="1655355398815" duration="3480000" />
+      <workItem from="1655355398815" duration="3773000" />
+      <workItem from="1656647184799" duration="1223000" />
+      <workItem from="1656649396380" duration="706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25484000" />
+    <option name="totallyTimeSpent" value="27706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -246,15 +275,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/template-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="1209" column="57" selection-start-line="1209" selection-start-column="42" selection-end-line="1209" selection-end-column="57" />
+        <state relative-caret-position="254">
+          <caret line="901" selection-start-line="901" selection-end-line="901" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="306" column="47" selection-start-line="306" selection-start-column="47" selection-end-line="306" selection-end-column="47" />
+        <state relative-caret-position="-88">
+          <caret line="316" column="22" lean-forward="true" selection-start-line="316" selection-start-column="22" selection-end-line="316" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
