@@ -148,7 +148,7 @@ body {
 
 .main-white-button a {
   font-size: 15px;
-  color: #fb5849;
+  color: #af8362;
   background-color: #fff;
   padding: 12px 25px;
   display: inline-block;
@@ -175,7 +175,7 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 15px;
-  color: #fb5849;
+  color: #664026;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -189,7 +189,7 @@ body {
   position: absolute;
   left: 0;
   top: 8px;
-  background-color: #fb5849;
+  background-color: #664026;
 }
 
 .section-heading h2 {
@@ -198,7 +198,7 @@ body {
   margin-bottom: 25px; 
   font-size: 30px;
   font-weight: 900;
-  color: #2a2a2a;
+  color: #895d3f;
 }
 
 
@@ -220,19 +220,19 @@ header
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #fff!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fb5849!important;
+  color: #895d3f!important;
 }
 
 .background-header .nav li a.active {
-  color: #fb5849!important;
+  color: #895d3f!important;
 }
 
 .header-area {
-  background-color: #fff;
+  background-color: #af8362;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -311,18 +311,22 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #2a2a2a;
+  color: #fff;
 }
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #fff!important;
+  font-size: 20px;
+  box-shadow: 0 2px #fff;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fb5849!important;
+  color: #fff!important;
   opacity: 1;
+  font-size: 20px;
+  box-shadow: 0 2px #fff;
 }
 
 .header-area .main-nav .nav li.submenu {
@@ -549,10 +553,10 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #fff;
+    background-color: #af8362;
     padding: 0px 15px;
     height: 100px;
-    box-shadow: none;
+    box-shadow: 0 1px #fff;
     text-align: center;
   }
   .header-area .container {
@@ -790,7 +794,7 @@ banner
   left:30px;
   width: 50px;
   height: 50px;
-  background-color: #fb5849;
+  background-color: #664026;
   border:0 none;
   line-height: 44px;
   border-radius: 50%;
@@ -918,7 +922,7 @@ menu
 .card {
   margin: 0 auto;
   max-width: 100%;
-  min-height: 400px;
+  min-height: 517px;
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
@@ -927,35 +931,35 @@ menu
 }
 
 .card1 {
-  background-image: url(../images/venus-nails-specialties-01.jpg);
+  background-image: url(../images/Elite-nails-spa-specialties-01.jpg);
   background-position: center;
 }
 .card2 {
-  background-image: url(../images/venus-nails-specialties-02.jpg);
+  background-image: url(../images/Elite-nails-spa-specialties-02.jpg);
   background-position: center;
 }
 .card3 {
-  background-image: url(../images/venus-nails-specialties-03.jpg);
+  background-image: url(../images/Elite-nails-spa-specialties-03.jpg);
   background-position: center;
 }
 .card4 {
-  background-image: url(../images/venus-nails-specialties-04.jpg);
+  background-image: url(../images/Elite-nails-spa-specialties-04.jpg);
   background-position: center;
 }
 .card5 {
-  background-image: url(../images/venus-nails-specialties-05.jpg);
+  background-image: url(../images/Elite-nails-spa-specialties-05.jpg);
   background-position: center;
 }
 .card6 {
-  background-image: url(../images/venus-nails-specialties-06.jpg);
+  background-image: url(../images/Elite-nails-spa-specialties-06.jpg);
   background-position: center;
 }
 
 .info {
   position: relative;
   width: 100%;
-  background-color: #fb5849;
-  border: 1px solid #fb5849;
+  background-color: #895d3f;
+  border: 1px solid #895d3f;
   transform: translateY(100%)
   translateY(240px)
   translateZ(0);
@@ -984,7 +988,7 @@ menu
   position: absolute;
   width: 70px;
   height: 70px;
-  background-color: #fb5849;
+  background-color: #895d3f;
   font-size: 20px;
   font-weight: 700;
   color: #fff;
@@ -1027,7 +1031,7 @@ menu
 #specialties .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #fb5849;
+  color: #664026;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -1059,7 +1063,7 @@ menu
 #specialties .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #fb5849;
+  color: #664026;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -1483,7 +1487,7 @@ footer
 footer {
   /*margin-top: 60px;*/
   padding: 50px 0px;
-  background-color: #fb5849;
+  background-color: #664026;
 }
 
 footer .left-text-content p {
@@ -1528,7 +1532,7 @@ footer .right-text-content ul li a {
   font-size: 20px;
   background-color: #fff;
   border-radius: 50%;
-  color: #fb5849;
+  color: #895d3f;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
   -o-transition: all 0.5s ease 0s;
@@ -1566,7 +1570,7 @@ responsive
   }
   #top .left-content {
     text-align: center;
-    padding: 25% 0px;
+    padding: 30% 0px;
   }
   #about .right-content {
     margin-left: 0px;
@@ -1695,8 +1699,8 @@ responsive
   .info {
     position: relative;
     width: 100%;
-    background-color: #fb5849;
-    border: 1px solid #fb5849;
+    background-color: #895d3f;
+    border: 1px solid #895d3f;
     transform: translateY(100%)
     translateY(230px)
     translateZ(0);
@@ -1713,7 +1717,7 @@ responsive
 @media (max-width: 1024px){
   .info {
     transform: translateY(100%)
-    translateY(229px)
+    translateY(310px)
     translateZ(0);
   }
   .title {
@@ -1732,7 +1736,7 @@ responsive
 @media (min-width: 1025px){
   .info {
     transform: translateY(100%)
-    translateY(229px)
+    translateY(310px)
     translateZ(0);
   }
   .title {
@@ -1756,13 +1760,13 @@ responsive
   }
 }
 .left-text-content a{
-  color: #fb5849;
+  color: #664026;
 }
 .left-text-content a:hover{
   color: #333;
 }
 #reservation i{
-  color: #fb5849;
+  color: #895d3f;
 }
 ::-webkit-scrollbar{
   display: none;
@@ -1794,7 +1798,7 @@ responsive
 }
 .title-big{
   font-size: 30px;
-  color: #fb5849 ;
+  color: #664026;
   font-weight: 300;
   padding: 16px 0 16px 0;
   letter-spacing: 4px;
